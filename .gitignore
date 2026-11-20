@@ -1,0 +1,19 @@
+# GitPilot baseline (added by GitPilot: keeps secrets and build output off GitHub)
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+.vercel/
+dist/
+build/
+__pycache__/
+.venv/
+/target/
+*.pem
+*.key
+*.p12
+*.pfx
+*.kdbx
+.DS_Store
+Thumbs.db
