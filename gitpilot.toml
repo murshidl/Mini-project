@@ -5,7 +5,7 @@ default_branch = "main"
 pin_actions = true
 managed = true
 integration_branch = ""
-workflow_hash = "sha256:7bf1c47a6b414ce8375a74a078840f18b38bbcc31488ad358adb4739d4863c65"
+workflow_hash = "sha256:e817d5976ed85c2b7ccdce9a2eb3aab38563ee52b406f2b78cece4af1a35e730"
 environments = []
 
 [actions]
